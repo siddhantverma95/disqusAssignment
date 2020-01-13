@@ -1,0 +1,105 @@
+{
+    "id": 0,
+    "userId": 1,
+    "userName": "Sidverma95",
+    "userImage": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+    "title": "quo vero reiciendis velit similique earum",
+    "description": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et",
+    "image": "https://usercontent2.hubstatic.com/14502967.jpg",
+    "like": true,
+    "dislike": false,
+    "createdAt": "2019-02-23 20:02:21.550",
+    "updatedAt": "2019-02-23 20:02:21.550",
+    "comments": [
+      {
+        "id": 0,
+        "userId": 2,
+        "postId": 0,
+        "userName": "Sid",
+        "userImage": "https://1ofdmq2n8tc36m6i46scovo2e-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/Tobias-Erb_MPI-Marburg.jpg",
+        "comment": "quia molestiae reprehenderit quasi aspernatur\naut expedita occaecati aliquam eveniet laudantium\nomnis quibusdam delectus saepe quia accusamus maiores nam est\ncum et ducimus et vero voluptates excepturi deleniti ratione",
+        "like": false,
+        "dislike": false,
+        "createdAt": "2019-02-23 20:02:21.550",
+        "updatedAt": "2019-02-23 20:02:21.550",
+        "replies": [
+          {
+            "id": 0,
+            "userId": 3,
+            "postId": 0,
+            "userName": "jesicaB",
+            "userImage": "https://secure.gravatar.com/avatar/b10f7ddbf9b8be9e3c46c302bb20101d?s=400&d=mm&r=g",
+            "reply": "non et atque\noccaecati deserunt quas accusantium unde odit nobis qui voluptatem\nquia voluptas consequuntur itaque dolor\net qui rerum deleniti ut occaecati",
+            "like": true,
+            "dislike": false,
+            "createdAt": "2019-02-24 20:02:21.550",
+            "updatedAt": "2019-02-24 23:02:21.550"
+          },
+          {
+            "id": 1,
+            "userId": 4,
+            "postId": 0,
+            "userName": "metrics",
+            "userImage": "http://keenthemes.com/preview/metronic/theme/assets/pages/media/profile/profile_user.jpg",
+            "reply": "harum non quasi et ratione\ntempore iure ex voluptates in ratione\nharum architecto fugit inventore cupiditate\nvoluptates magni quo et",
+            "like": false,
+            "dislike": false,
+            "createdAt": "2019-02-23 20:02:21.550",
+            "updatedAt": "2019-02-23 20:02:21.550"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "userId": 5,
+        "postId": 0,
+        "userName": "Kyle",
+        "userImage": "http://www.niemanlab.org/images/Greg-Emerson-edit-2.jpg",
+        "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+        "like": false,
+        "dislike": true,
+        "createdAt": "2019-02-23 20:02:21.550",
+        "updatedAt": "2019-02-23 20:02:21.550",
+        "replies": [
+          {
+            "id": 2,
+            "userId": 6,
+            "postId": 0,
+            "userName": "abc",
+            "userImage": "https://static.makeuseof.com/wp-content/uploads/2015/11/perfect-profile-picture-all-about-face.jpg",
+            "reply": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in",
+            "like": false,
+            "dislike": false,
+            "createdAt": "2019-02-23 20:02:21.550",
+            "updatedAt": "2019-02-23 20:02:21.550"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "userId": 8,
+        "postId": 0,
+        "userName": "Joe",
+        "userImage": "https://developers.google.com/web/images/contributors/philipwalton.jpg",
+        "comment": "maiores sed dolores similique labore et inventore et\nquasi temporibus esse sunt id et\neos voluptatem aliquam\naliquid ratione corporis molestiae mollitia quia et magnam dolor",
+        "like": false,
+        "dislike": true,
+        "createdAt": "2019-02-23 20:02:21.550",
+        "updatedAt": "2019-02-23 20:02:21.550",
+        "replies": []
+      },
+      {
+        "id": 3,
+        "userId": 9,
+        "postId": 0,
+        "userName": "Josh",
+        "userImage": "https://es6.io/images/square-small.jpg",
+        "comment": "ut voluptatem corrupti velit\nad voluptatem maiores\net nisi velit vero accusamus maiores\nvoluptates quia aliquid ullam eaque",
+        "like": true,
+        "dislike": false,
+        "createdAt": "2019-02-23 20:02:21.550",
+        "updatedAt": "2019-02-23 20:02:21.550",
+        "replies": []
+      }
+    ]
+  }

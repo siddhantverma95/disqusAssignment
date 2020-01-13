@@ -1,0 +1,41 @@
+{
+  "id": 0,
+  "userId": 1,
+  "userName": "Sidverma95",
+  "userImage": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+  "title": "quo vero reiciendis velit similique earum",
+  "description": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et",
+  "image": "https://usercontent2.hubstatic.com/14502967.jpg",
+  "like": true,
+  "dislike": false,
+  "createdAt": "2019-02-23 20:02:21.550",
+  "updatedAt": "2019-02-23 20:02:21.550",
+  "comments": [
+    {
+      "id": 4,
+      "userId": 13,
+      "postId": 0,
+      "userName": "Udit",
+      "userImage": "https://outpostrecruitment.com/wp-content/uploads/2019/05/Ruairi-Spillane.png",
+      "comment": "maiores sed dolores similique labore et inventore et\nquasi temporibus esse sunt id et\neos voluptatem aliquam\naliquid ratione corporis molestiae mollitia quia et magnam dolor",
+      "like": false,
+      "dislike": false,
+      "createdAt": "2019-02-18 01:02:21.550",
+      "updatedAt": "2019-02-18 20:02:21.550",
+      "replies": []
+    },
+    {
+      "id": 5,
+      "userId": 14,
+      "postId": 0,
+      "userName": "Mosh",
+      "userImage": "https://twistedsifter.files.wordpress.com/2012/09/trippy-profile-pic-portrait-head-on-and-from-side-angle.jpg?w=800",
+      "comment": "ut voluptatem corrupti velit\nad voluptatem maiores\net nisi velit vero accusamus maiores\nvoluptates quia aliquid ullam eaque",
+      "like": false,
+      "dislike": false,
+      "createdAt": "2019-02-19 16:02:21.550",
+      "updatedAt": "2019-02-19 23:02:21.550",
+      "replies": []
+    }
+  ]
+}
